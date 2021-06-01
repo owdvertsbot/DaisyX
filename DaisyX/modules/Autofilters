@@ -27,7 +27,7 @@ Currently support:
      - Music
 
 <b> Setting up </b>
-1) Add @DaisyXBot to your channel
+1) Add @OBHELPBOT to your channel
 2) Make bot admin with full permissions
 2) Go back to your group
 
@@ -37,7 +37,7 @@ Currently support:
 - /autofilterdelall : Remove all channels from automatic filtering
 - /autofiltersettings : Show settings panel about auto filtering channels
 
-<i> Inspired by https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2 </i>
-Original work is done by @CrazyBotsz
+<i> Inspired by https://github.com/Owdvertsbot/Adv-Auto-Filter-Bot-V2 </i>
+Original work is done by @Owdver_bot
 
 """
